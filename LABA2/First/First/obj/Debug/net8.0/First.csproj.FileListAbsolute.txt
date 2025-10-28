@@ -1,0 +1,15 @@
+C:\Программирование\CS\LABA2\First\First\obj\Debug\net8.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Программирование\CS\LABA2\First\First\obj\Debug\net8.0\First.AssemblyInfoInputs.cache
+C:\Программирование\CS\LABA2\First\First\obj\Debug\net8.0\First.AssemblyInfo.cs
+C:\Программирование\CS\LABA2\First\First\obj\Debug\net8.0\First.csproj.CoreCompileInputs.cache
+C:\Программирование\CS\LABA2\First\First\obj\Debug\net8.0\First.sourcelink.json
+C:\Программирование\CS\LABA2\First\First\bin\Debug\net8.0\First.exe
+C:\Программирование\CS\LABA2\First\First\bin\Debug\net8.0\First.deps.json
+C:\Программирование\CS\LABA2\First\First\bin\Debug\net8.0\First.runtimeconfig.json
+C:\Программирование\CS\LABA2\First\First\bin\Debug\net8.0\First.dll
+C:\Программирование\CS\LABA2\First\First\bin\Debug\net8.0\First.pdb
+C:\Программирование\CS\LABA2\First\First\obj\Debug\net8.0\First.dll
+C:\Программирование\CS\LABA2\First\First\obj\Debug\net8.0\refint\First.dll
+C:\Программирование\CS\LABA2\First\First\obj\Debug\net8.0\First.pdb
+C:\Программирование\CS\LABA2\First\First\obj\Debug\net8.0\First.genruntimeconfig.cache
+C:\Программирование\CS\LABA2\First\First\obj\Debug\net8.0\ref\First.dll
