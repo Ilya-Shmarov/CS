@@ -1,0 +1,15 @@
+C:\Программирование\CS\LABA1\Second\Second\obj\Debug\net8.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Программирование\CS\LABA1\Second\Second\obj\Debug\net8.0\Second.AssemblyInfoInputs.cache
+C:\Программирование\CS\LABA1\Second\Second\obj\Debug\net8.0\Second.AssemblyInfo.cs
+C:\Программирование\CS\LABA1\Second\Second\obj\Debug\net8.0\Second.csproj.CoreCompileInputs.cache
+C:\Программирование\CS\LABA1\Second\Second\obj\Debug\net8.0\Second.sourcelink.json
+C:\Программирование\CS\LABA1\Second\Second\bin\Debug\net8.0\Second.exe
+C:\Программирование\CS\LABA1\Second\Second\bin\Debug\net8.0\Second.deps.json
+C:\Программирование\CS\LABA1\Second\Second\bin\Debug\net8.0\Second.runtimeconfig.json
+C:\Программирование\CS\LABA1\Second\Second\bin\Debug\net8.0\Second.dll
+C:\Программирование\CS\LABA1\Second\Second\bin\Debug\net8.0\Second.pdb
+C:\Программирование\CS\LABA1\Second\Second\obj\Debug\net8.0\Second.dll
+C:\Программирование\CS\LABA1\Second\Second\obj\Debug\net8.0\refint\Second.dll
+C:\Программирование\CS\LABA1\Second\Second\obj\Debug\net8.0\Second.pdb
+C:\Программирование\CS\LABA1\Second\Second\obj\Debug\net8.0\Second.genruntimeconfig.cache
+C:\Программирование\CS\LABA1\Second\Second\obj\Debug\net8.0\ref\Second.dll
